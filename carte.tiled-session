@@ -1,4 +1,8 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "nature.tsx",
     "expandedProjectPaths": [
     ],
@@ -9,6 +13,11 @@
         }
     },
     "last.imagePath": "C:/Users/DELL/PycharmProjects/FierstProject",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
     "openFiles": [
         "nature.tsx"
     ],
@@ -17,6 +26,10 @@
         "nature.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
     "tileset.transparentColor": "#000000",
     "tileset.useTransparentColor": true
 }
