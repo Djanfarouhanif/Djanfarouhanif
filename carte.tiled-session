@@ -3,19 +3,20 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "nature.tsx",
+    "activeFile": "Carte.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
         "Carte.tmx": {
             "expandedObjectLayers": [
                 8
             ],
-            "scale": 0.75,
+            "scale": 0.5,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 513.3333333333333,
-                "y": 345.99999999999994
+                "x": 398,
+                "y": 418
             }
         },
         "house.tmx": {
@@ -29,6 +30,10 @@
                 "y": 199.62067330488384
             }
         },
+        "house.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "nature.tsx": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -41,11 +46,17 @@
     "map.tileWidth": 16,
     "map.width": 25,
     "openFiles": [
-        "nature.tsx"
+        "Carte.tmx",
+        "nature.tsx",
+        "house.tsx",
+        "house.tmx"
     ],
     "project": "carte.tiled-project",
     "recentFiles": [
-        "nature.tsx"
+        "house.tmx",
+        "house.tsx",
+        "nature.tsx",
+        "Carte.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
