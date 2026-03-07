@@ -9,7 +9,7 @@
 ╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=🐍+Python+%2F+Django+Backend+Developer;⚡+REST+API+Architect;🔺+Angular+Full-Stack+Engineer;🚀+Building+Tomorrow's+Systems+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Python+%2F+Django+Backend+Developer;REST+API+Architect;Angular+Full-Stack+Engineer;Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
 
 <br/>
 
@@ -19,7 +19,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=Djanfarouhanif&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" />
 
 ### 🧑‍💻 About Me
 
