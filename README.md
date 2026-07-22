@@ -61,9 +61,7 @@ class Djanfarou:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Djanfarouhanif&theme=tokyonight" width="100%"/>
-</div>
+
 
 ---
 
