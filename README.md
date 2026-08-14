@@ -51,13 +51,6 @@ class Djanfarou:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Djanfarouhanif&theme=tokyonight&hide_border=true&background=0d1117&stroke=00e5ff&ring=00e5ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=8b949e&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djanfarouhanif&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="165"/>
-</div>
 
 <br/>
 
