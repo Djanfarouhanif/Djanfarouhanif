@@ -13,7 +13,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Djanfarouhanif&color=00e5ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Djanfarouhanif)
 
 </div>
 
